@@ -1,0 +1,639 @@
+{
+    "label": {
+        "none": [
+            "Bulletin du CEC — mars-avril 1953"
+        ]
+    },
+    "id": "https://www.unige.ch/rougemont/bcec/bcec195304/",
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "type": "Manifest",
+    "behavior": [
+        "paged"
+    ],
+    "items": [
+        {
+            "id": "https://www.unige.ch/rougemont/bcec/bcec195304//bcec195304_0001",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "n. p."
+                ]
+            },
+            "width": 1700,
+            "height": 2443,
+            "items": [
+                {
+                    "id": "https://www.unige.ch/rougemont/bcec/bcec195304/bcec195304_0001.jpg",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0001.jpg",
+                            "target": "https://www.unige.ch/rougemont/bcec/bcec195304//bcec195304_0001",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0001.jpg/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1700,
+                                "height": 2443,
+                                "service": [
+                                    {
+                                        "@id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0001.jpg",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://www.unige.ch/rougemont/bcec/bcec195304//bcec195304_0002",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "n. p."
+                ]
+            },
+            "width": 1666,
+            "height": 2396,
+            "items": [
+                {
+                    "id": "https://www.unige.ch/rougemont/bcec/bcec195304/bcec195304_0002.jpg",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0002.jpg",
+                            "target": "https://www.unige.ch/rougemont/bcec/bcec195304//bcec195304_0002",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0002.jpg/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1666,
+                                "height": 2396,
+                                "service": [
+                                    {
+                                        "@id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0002.jpg",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://www.unige.ch/rougemont/bcec/bcec195304//bcec195304_0003",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 1"
+                ]
+            },
+            "width": 1669,
+            "height": 2400,
+            "items": [
+                {
+                    "id": "https://www.unige.ch/rougemont/bcec/bcec195304/bcec195304_0003.jpg",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0003.jpg",
+                            "target": "https://www.unige.ch/rougemont/bcec/bcec195304//bcec195304_0003",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0003.jpg/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1669,
+                                "height": 2400,
+                                "service": [
+                                    {
+                                        "@id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0003.jpg",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://www.unige.ch/rougemont/bcec/bcec195304//bcec195304_0004",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 2"
+                ]
+            },
+            "width": 1668,
+            "height": 2394,
+            "items": [
+                {
+                    "id": "https://www.unige.ch/rougemont/bcec/bcec195304/bcec195304_0004.jpg",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0004.jpg",
+                            "target": "https://www.unige.ch/rougemont/bcec/bcec195304//bcec195304_0004",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0004.jpg/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1668,
+                                "height": 2394,
+                                "service": [
+                                    {
+                                        "@id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0004.jpg",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://www.unige.ch/rougemont/bcec/bcec195304//bcec195304_0005",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 3"
+                ]
+            },
+            "width": 1662,
+            "height": 2399,
+            "items": [
+                {
+                    "id": "https://www.unige.ch/rougemont/bcec/bcec195304/bcec195304_0005.jpg",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0005.jpg",
+                            "target": "https://www.unige.ch/rougemont/bcec/bcec195304//bcec195304_0005",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0005.jpg/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1662,
+                                "height": 2399,
+                                "service": [
+                                    {
+                                        "@id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0005.jpg",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://www.unige.ch/rougemont/bcec/bcec195304//bcec195304_0006",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 4"
+                ]
+            },
+            "width": 1666,
+            "height": 2396,
+            "items": [
+                {
+                    "id": "https://www.unige.ch/rougemont/bcec/bcec195304/bcec195304_0006.jpg",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0006.jpg",
+                            "target": "https://www.unige.ch/rougemont/bcec/bcec195304//bcec195304_0006",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0006.jpg/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1666,
+                                "height": 2396,
+                                "service": [
+                                    {
+                                        "@id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0006.jpg",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://www.unige.ch/rougemont/bcec/bcec195304//bcec195304_0007",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 5"
+                ]
+            },
+            "width": 1665,
+            "height": 2401,
+            "items": [
+                {
+                    "id": "https://www.unige.ch/rougemont/bcec/bcec195304/bcec195304_0007.jpg",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0007.jpg",
+                            "target": "https://www.unige.ch/rougemont/bcec/bcec195304//bcec195304_0007",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0007.jpg/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1665,
+                                "height": 2401,
+                                "service": [
+                                    {
+                                        "@id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0007.jpg",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://www.unige.ch/rougemont/bcec/bcec195304//bcec195304_0008",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 6"
+                ]
+            },
+            "width": 1669,
+            "height": 2395,
+            "items": [
+                {
+                    "id": "https://www.unige.ch/rougemont/bcec/bcec195304/bcec195304_0008.jpg",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0008.jpg",
+                            "target": "https://www.unige.ch/rougemont/bcec/bcec195304//bcec195304_0008",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0008.jpg/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1669,
+                                "height": 2395,
+                                "service": [
+                                    {
+                                        "@id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0008.jpg",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://www.unige.ch/rougemont/bcec/bcec195304//bcec195304_0009",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 7"
+                ]
+            },
+            "width": 1661,
+            "height": 2401,
+            "items": [
+                {
+                    "id": "https://www.unige.ch/rougemont/bcec/bcec195304/bcec195304_0009.jpg",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0009.jpg",
+                            "target": "https://www.unige.ch/rougemont/bcec/bcec195304//bcec195304_0009",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0009.jpg/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1661,
+                                "height": 2401,
+                                "service": [
+                                    {
+                                        "@id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0009.jpg",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://www.unige.ch/rougemont/bcec/bcec195304//bcec195304_0010",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 8"
+                ]
+            },
+            "width": 1667,
+            "height": 2394,
+            "items": [
+                {
+                    "id": "https://www.unige.ch/rougemont/bcec/bcec195304/bcec195304_0010.jpg",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0010.jpg",
+                            "target": "https://www.unige.ch/rougemont/bcec/bcec195304//bcec195304_0010",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0010.jpg/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1667,
+                                "height": 2394,
+                                "service": [
+                                    {
+                                        "@id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0010.jpg",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://www.unige.ch/rougemont/bcec/bcec195304//bcec195304_0011",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 9"
+                ]
+            },
+            "width": 1665,
+            "height": 2398,
+            "items": [
+                {
+                    "id": "https://www.unige.ch/rougemont/bcec/bcec195304/bcec195304_0011.jpg",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0011.jpg",
+                            "target": "https://www.unige.ch/rougemont/bcec/bcec195304//bcec195304_0011",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0011.jpg/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1665,
+                                "height": 2398,
+                                "service": [
+                                    {
+                                        "@id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0011.jpg",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://www.unige.ch/rougemont/bcec/bcec195304//bcec195304_0012",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 10"
+                ]
+            },
+            "width": 1667,
+            "height": 2396,
+            "items": [
+                {
+                    "id": "https://www.unige.ch/rougemont/bcec/bcec195304/bcec195304_0012.jpg",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0012.jpg",
+                            "target": "https://www.unige.ch/rougemont/bcec/bcec195304//bcec195304_0012",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0012.jpg/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1667,
+                                "height": 2396,
+                                "service": [
+                                    {
+                                        "@id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0012.jpg",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://www.unige.ch/rougemont/bcec/bcec195304//bcec195304_0013",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 11"
+                ]
+            },
+            "width": 1665,
+            "height": 2398,
+            "items": [
+                {
+                    "id": "https://www.unige.ch/rougemont/bcec/bcec195304/bcec195304_0013.jpg",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0013.jpg",
+                            "target": "https://www.unige.ch/rougemont/bcec/bcec195304//bcec195304_0013",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0013.jpg/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1665,
+                                "height": 2398,
+                                "service": [
+                                    {
+                                        "@id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0013.jpg",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://www.unige.ch/rougemont/bcec/bcec195304//bcec195304_0014",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 12"
+                ]
+            },
+            "width": 1662,
+            "height": 2397,
+            "items": [
+                {
+                    "id": "https://www.unige.ch/rougemont/bcec/bcec195304/bcec195304_0014.jpg",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0014.jpg",
+                            "target": "https://www.unige.ch/rougemont/bcec/bcec195304//bcec195304_0014",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0014.jpg/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1662,
+                                "height": 2397,
+                                "service": [
+                                    {
+                                        "@id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0014.jpg",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://www.unige.ch/rougemont/bcec/bcec195304//bcec195304_0015",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 13"
+                ]
+            },
+            "width": 1664,
+            "height": 2399,
+            "items": [
+                {
+                    "id": "https://www.unige.ch/rougemont/bcec/bcec195304/bcec195304_0015.jpg",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0015.jpg",
+                            "target": "https://www.unige.ch/rougemont/bcec/bcec195304//bcec195304_0015",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0015.jpg/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1664,
+                                "height": 2399,
+                                "service": [
+                                    {
+                                        "@id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0015.jpg",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://www.unige.ch/rougemont/bcec/bcec195304//bcec195304_0016",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "p. 14"
+                ]
+            },
+            "width": 1660,
+            "height": 2394,
+            "items": [
+                {
+                    "id": "https://www.unige.ch/rougemont/bcec/bcec195304/bcec195304_0016.jpg",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0016.jpg",
+                            "target": "https://www.unige.ch/rougemont/bcec/bcec195304//bcec195304_0016",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0016.jpg/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1660,
+                                "height": 2394,
+                                "service": [
+                                    {
+                                        "@id": "https://iiif.unige.ch/iiif/2/rougemont/bcec/bcec195304/bcec195304_0016.jpg",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

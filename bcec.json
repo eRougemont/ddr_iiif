@@ -1,0 +1,744 @@
+{
+    "label": {
+        "none": [
+            "Bulletin du Centre européen de la culture"
+        ]
+    },
+    "id": "https://www.unige.ch/rougemont/bcec/",
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "type": "Collection",
+    "behavior": [
+        "multi-part"
+    ],
+    "items": [
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195105.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — mai 1951"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195203.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — mars 1952"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195204.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — avril 1952"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195205.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — mai 1952"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195207.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — juin-juillet 1952"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195209.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — août-septembre 1952"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195210.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — octobre 1952"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195211.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — novembre 1952"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195301.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — décembre-janvier 1953"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195302.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — février 1953"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195304.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — mars-avril 1953"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195306.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — mai-juin 1953"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195310.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — juillet-octobre 1953"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195312.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — novembre-décembre 1953"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195402.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — janvier-février 1954"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195404.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — mars-avril 1954"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195407.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — mai-juillet 1954"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195408.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Bibliographie européenne, août-septembre 1954"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195408b.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Bibliographie européenne, 2ᵉ édition complétée, sans date."
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195411.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — octobre-novembre 1954"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195501.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — décembre 1954-janvier 1955."
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195503.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — février-mars 1955"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195509.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — La Fondation européenne de la culture, été 1955"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195510.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — octobre 1955"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195512.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Europe-URSS : la question des échanges culturels, décembre 1955"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195602.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — février 1956"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195605.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Pour une éducation européenne, avril-mai 1956"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195607.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — juin-juillet 1956"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195609.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Origines, buts, activités (1950-1956), août-septembre 1956"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195611.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — L’Europe s’inscrit dans les faits, novembre 1956"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195702.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — février 1957"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195704.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — L’Europe et l’école, avril 1957"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195705.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Le Rôle des festivals dans la vie culturelle de l’Europe, mai 1957"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195710.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Association des instituts d’études européennes : annuaire 1957, octobre 1957"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195712.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Promesses du Marché commun, décembre 1957"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195802.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Objectifs et activités du Centre européen de la culture, février 1958"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195805.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Méthodes et mouvements pour unir l’Europe, mai 1958"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195807.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Une université européenne ? juillet 1958"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195809.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Automation et cybernétique, septembre 1958"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195811.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Guide européen de l’enseignant, novembre 1958"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195812.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Définitions, valeurs, énergie, recherches : quatre essais européens, décembre 1958"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195900.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — L’Europe s’inscrit dans les faits (édition revue et augmentée), 1959"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195903.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Les Origines de l’Europe : d’Hésiode à Charlemagne ou du mythe à l’histoire, mars 1959"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195905.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Éducation et loisirs, mai 1959"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195909.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — L’Édition et l’Europe, septembre 1959"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec195912.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Neuf expériences d’éducation européenne, décembre 1959"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec196010.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — CEC : dix ans d’activité, 1959-1960"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec196100a.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Prédictions et réalités : Russie-Europe-États-Unis, 1960-1961"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec196100b.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Association des instituts d’études européennes : annuaire 1960-1961, octobre 1960"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec196100c.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Aspects de l’Europe en devenir, 1960-1961"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec196100d.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Guide européen de l’enseignement civique, 1960-1961"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec196100e.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Hommage à un grand Européen : J. H. Retinger, 1960-1961"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec196100f.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Généalogie des grands dessins européens, 1960-1961"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec196204.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Pour un dialogue des cultures, avril 1962"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec196208.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Les Chances de l’Europe, août 1962"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec196302.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — L’Édition en Europe (ii), février 1963"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec196305.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Enquête sur l’enseignement civique dans les pays européens, mai 1963"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec196307.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Pour une métropole régionale Aix-Marseille-Étang de Berre, juillet 1963"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec196403.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Formation des cadres européens, mars 1964"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec196409.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — La Campagne d’éducation civique européenne, septembre 1964"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec196412.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Association des instituts d’études européennes : annuaire 1964-1965, décembre 1964"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec196500a.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Science politique et intégration européenne, janvier-mars 1965"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec196500b.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — L’Europe et le monde, automne 1965"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec196600a.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Bilan des activités culturelles au service de l’Europe (1949-1964), printemps 1966"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec196600b.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Association des instituts d’études européennes : annuaire 1966-1967, automne 1966"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec196700a.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Civisme et culture, mai 1967"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec196700b.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Naissance de l’Europe des régions, hiver 1967-1968"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec196800.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Association des instituts d’études européennes : annuaire 1968-1969, automne 1968"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec196900.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — L’Europe des régions (II), hiver 1969-1970"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec197000a.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Le Cheminement des esprits, été 1970"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec197000b.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Méthodes quantitatives et intégration européenne, automne 1970"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec197100.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Remises en question, automne 1971"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec197200.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — L’Europe des régions (III), été 1972"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec197400a.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — L’Europe des régions (iv), printemps 1974"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec197400b.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Journal d’un Européen, été-automne 1974"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec197500a.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Deux initiatives du CEC : Documents sur l’origine du CERN et de la Fondation européenne de la culture, hiver 1975"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec197500b.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — L’Europe des régions (v), printemps-été 1975"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec197500c.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Deux études sur la prospective, automne 1975"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec197500d.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — L’Europe et ses intellectuels, hiver 1975-1976"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec197600.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — Autour du rapport Tindemans, 1976"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://oeuvres.unige.ch/testiiif/bcec197700.json",
+            "label": {
+                "none": [
+                    "Bulletin du CEC — L’Itinéraire d’un penseur engagé, 1977"
+                ]
+            },
+            "type": "Manifest"
+        }
+    ]
+}

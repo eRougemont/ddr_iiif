@@ -44,56 +44,13 @@
                             },
                             "items": [
                                 {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0003",
-                                    "type": "Canvas"
-                                },
-                                {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0004",
-                                    "type": "Canvas"
-                                },
-                                {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0005",
-                                    "type": "Canvas"
-                                },
-                                {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0006",
-                                    "type": "Canvas"
-                                },
-                                {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0007",
-                                    "type": "Canvas"
-                                },
-                                {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0008",
-                                    "type": "Canvas"
-                                },
-                                {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0009",
-                                    "type": "Canvas"
-                                },
-                                {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0010",
-                                    "type": "Canvas"
-                                },
-                                {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0011",
                                     "type": "Canvas"
                                 },
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0012",
                                     "type": "Canvas"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "range",
-                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/2.2",
-                            "label": {
-                                "none": [
-                                    "Rapport général du congrès de Lausanne (1949) [p. 11-30]"
-                                ]
-                            },
-                            "items": [
+                                },
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0013",
                                     "type": "Canvas"
@@ -125,7 +82,18 @@
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0020",
                                     "type": "Canvas"
-                                },
+                                }
+                            ]
+                        },
+                        {
+                            "type": "range",
+                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/2.2",
+                            "label": {
+                                "none": [
+                                    "Rapport général du congrès de Lausanne (1949) [p. 11-30]"
+                                ]
+                            },
+                            "items": [
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0021",
                                     "type": "Canvas"
@@ -173,18 +141,7 @@
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0032",
                                     "type": "Canvas"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "range",
-                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/2.3",
-                            "label": {
-                                "none": [
-                                    "Naissance du CEC (1950) [p. 31-33]"
-                                ]
-                            },
-                            "items": [
+                                },
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0033",
                                     "type": "Canvas"
@@ -196,18 +153,7 @@
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0035",
                                     "type": "Canvas"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "range",
-                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/2.4",
-                            "label": {
-                                "none": [
-                                    "Naissance d’une fondation (1954) [p. 34-38]"
-                                ]
-                            },
-                            "items": [
+                                },
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0036",
                                     "type": "Canvas"
@@ -232,10 +178,10 @@
                         },
                         {
                             "type": "range",
-                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/2.5",
+                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/2.3",
                             "label": {
                                 "none": [
-                                    "Trois initiales (1960) et un post-scriptum (1970) [p. 39-45]"
+                                    "Naissance du CEC (1950) [p. 31-33]"
                                 ]
                             },
                             "items": [
@@ -250,7 +196,18 @@
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0043",
                                     "type": "Canvas"
-                                },
+                                }
+                            ]
+                        },
+                        {
+                            "type": "range",
+                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/2.4",
+                            "label": {
+                                "none": [
+                                    "Naissance d’une fondation (1954) [p. 34-38]"
+                                ]
+                            },
+                            "items": [
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0044",
                                     "type": "Canvas"
@@ -265,6 +222,49 @@
                                 },
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0047",
+                                    "type": "Canvas"
+                                },
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0048",
+                                    "type": "Canvas"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "range",
+                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/2.5",
+                            "label": {
+                                "none": [
+                                    "Trois initiales (1960) et un post-scriptum (1970) [p. 39-45]"
+                                ]
+                            },
+                            "items": [
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0049",
+                                    "type": "Canvas"
+                                },
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0050",
+                                    "type": "Canvas"
+                                },
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0051",
+                                    "type": "Canvas"
+                                },
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0052",
+                                    "type": "Canvas"
+                                },
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0053",
+                                    "type": "Canvas"
+                                },
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0054",
+                                    "type": "Canvas"
+                                },
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0055",
                                     "type": "Canvas"
                                 }
                             ]
@@ -290,38 +290,6 @@
                             },
                             "items": [
                                 {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0051",
-                                    "type": "Canvas"
-                                },
-                                {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0052",
-                                    "type": "Canvas"
-                                },
-                                {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0053",
-                                    "type": "Canvas"
-                                },
-                                {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0054",
-                                    "type": "Canvas"
-                                },
-                                {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0055",
-                                    "type": "Canvas"
-                                },
-                                {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0056",
-                                    "type": "Canvas"
-                                },
-                                {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0057",
-                                    "type": "Canvas"
-                                },
-                                {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0058",
-                                    "type": "Canvas"
-                                },
-                                {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0059",
                                     "type": "Canvas"
                                 },
@@ -340,18 +308,7 @@
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0063",
                                     "type": "Canvas"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "range",
-                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/3.2",
-                            "label": {
-                                "none": [
-                                    "Préface à L’Œuvre du XXe siècle [p. 62-65]"
-                                ]
-                            },
-                            "items": [
+                                },
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0064",
                                     "type": "Canvas"
@@ -367,18 +324,7 @@
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0067",
                                     "type": "Canvas"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "range",
-                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/3.3",
-                            "label": {
-                                "none": [
-                                    "Conclusions sur l’avenir et la liberté de la culture [p. 66-69]"
-                                ]
-                            },
-                            "items": [
+                                },
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0068",
                                     "type": "Canvas"
@@ -399,10 +345,10 @@
                         },
                         {
                             "type": "range",
-                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/3.4",
+                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/3.2",
                             "label": {
                                 "none": [
-                                    "À la Table ronde du Conseil de l’Europe [p. 70-74]"
+                                    "Préface à L’Œuvre du XXe siècle [p. 62-65]"
                                 ]
                             },
                             "items": [
@@ -421,9 +367,63 @@
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0075",
                                     "type": "Canvas"
-                                },
+                                }
+                            ]
+                        },
+                        {
+                            "type": "range",
+                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/3.3",
+                            "label": {
+                                "none": [
+                                    "Conclusions sur l’avenir et la liberté de la culture [p. 66-69]"
+                                ]
+                            },
+                            "items": [
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0076",
+                                    "type": "Canvas"
+                                },
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0077",
+                                    "type": "Canvas"
+                                },
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0078",
+                                    "type": "Canvas"
+                                },
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0079",
+                                    "type": "Canvas"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "range",
+                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/3.4",
+                            "label": {
+                                "none": [
+                                    "À la Table ronde du Conseil de l’Europe [p. 70-74]"
+                                ]
+                            },
+                            "items": [
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0080",
+                                    "type": "Canvas"
+                                },
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0081",
+                                    "type": "Canvas"
+                                },
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0082",
+                                    "type": "Canvas"
+                                },
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0083",
+                                    "type": "Canvas"
+                                },
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0084",
                                     "type": "Canvas"
                                 }
                             ]
@@ -438,23 +438,23 @@
                             },
                             "items": [
                                 {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0077",
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0085",
                                     "type": "Canvas"
                                 },
                                 {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0078",
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0086",
                                     "type": "Canvas"
                                 },
                                 {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0079",
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0087",
                                     "type": "Canvas"
                                 },
                                 {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0080",
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0088",
                                     "type": "Canvas"
                                 },
                                 {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0081",
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0089",
                                     "type": "Canvas"
                                 }
                             ]
@@ -480,56 +480,13 @@
                             },
                             "items": [
                                 {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0085",
-                                    "type": "Canvas"
-                                },
-                                {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0086",
-                                    "type": "Canvas"
-                                },
-                                {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0087",
-                                    "type": "Canvas"
-                                },
-                                {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0088",
-                                    "type": "Canvas"
-                                },
-                                {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0089",
-                                    "type": "Canvas"
-                                },
-                                {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0090",
-                                    "type": "Canvas"
-                                },
-                                {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0091",
-                                    "type": "Canvas"
-                                },
-                                {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0092",
-                                    "type": "Canvas"
-                                },
-                                {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0093",
                                     "type": "Canvas"
                                 },
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0094",
                                     "type": "Canvas"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "range",
-                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/4.2",
-                            "label": {
-                                "none": [
-                                    "Le civisme commence au respect des forêts [p. 93-97]"
-                                ]
-                            },
-                            "items": [
+                                },
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0095",
                                     "type": "Canvas"
@@ -549,6 +506,49 @@
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0099",
                                     "type": "Canvas"
+                                },
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0100",
+                                    "type": "Canvas"
+                                },
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0101",
+                                    "type": "Canvas"
+                                },
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0102",
+                                    "type": "Canvas"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "range",
+                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/4.2",
+                            "label": {
+                                "none": [
+                                    "Le civisme commence au respect des forêts [p. 93-97]"
+                                ]
+                            },
+                            "items": [
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0103",
+                                    "type": "Canvas"
+                                },
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0104",
+                                    "type": "Canvas"
+                                },
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0105",
+                                    "type": "Canvas"
+                                },
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0106",
+                                    "type": "Canvas"
+                                },
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0107",
+                                    "type": "Canvas"
                                 }
                             ]
                         },
@@ -561,49 +561,6 @@
                                 ]
                             },
                             "items": [
-                                {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0100",
-                                    "type": "Canvas"
-                                },
-                                {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0101",
-                                    "type": "Canvas"
-                                },
-                                {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0102",
-                                    "type": "Canvas"
-                                },
-                                {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0103",
-                                    "type": "Canvas"
-                                },
-                                {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0104",
-                                    "type": "Canvas"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "range",
-                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/4.4",
-                            "label": {
-                                "none": [
-                                    "Université et universalité [p. 103-117]"
-                                ]
-                            },
-                            "items": [
-                                {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0105",
-                                    "type": "Canvas"
-                                },
-                                {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0106",
-                                    "type": "Canvas"
-                                },
-                                {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0107",
-                                    "type": "Canvas"
-                                },
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0108",
                                     "type": "Canvas"
@@ -623,7 +580,18 @@
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0112",
                                     "type": "Canvas"
-                                },
+                                }
+                            ]
+                        },
+                        {
+                            "type": "range",
+                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/4.4",
+                            "label": {
+                                "none": [
+                                    "Université et universalité [p. 103-117]"
+                                ]
+                            },
+                            "items": [
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0113",
                                     "type": "Canvas"
@@ -651,18 +619,7 @@
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0119",
                                     "type": "Canvas"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "range",
-                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/4.5",
-                            "label": {
-                                "none": [
-                                    "Le rôle de la recherche en Europe [p. 118-123]"
-                                ]
-                            },
-                            "items": [
+                                },
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0120",
                                     "type": "Canvas"
@@ -686,18 +643,7 @@
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0125",
                                     "type": "Canvas"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "range",
-                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/4.6",
-                            "label": {
-                                "none": [
-                                    "Technique et culture [p. 124-141]"
-                                ]
-                            },
-                            "items": [
+                                },
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0126",
                                     "type": "Canvas"
@@ -705,7 +651,18 @@
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0127",
                                     "type": "Canvas"
-                                },
+                                }
+                            ]
+                        },
+                        {
+                            "type": "range",
+                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/4.5",
+                            "label": {
+                                "none": [
+                                    "Le rôle de la recherche en Europe [p. 118-123]"
+                                ]
+                            },
+                            "items": [
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0128",
                                     "type": "Canvas"
@@ -729,7 +686,18 @@
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0133",
                                     "type": "Canvas"
-                                },
+                                }
+                            ]
+                        },
+                        {
+                            "type": "range",
+                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/4.6",
+                            "label": {
+                                "none": [
+                                    "Technique et culture [p. 124-141]"
+                                ]
+                            },
+                            "items": [
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0134",
                                     "type": "Canvas"
@@ -769,18 +737,7 @@
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0143",
                                     "type": "Canvas"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "range",
-                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/4.7",
-                            "label": {
-                                "none": [
-                                    "Pour une politique de la recherche [p. 142-146]"
-                                ]
-                            },
-                            "items": [
+                                },
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0144",
                                     "type": "Canvas"
@@ -800,18 +757,7 @@
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0148",
                                     "type": "Canvas"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "range",
-                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/4.8",
-                            "label": {
-                                "none": [
-                                    "Il n’y a pas de « musique moderne » [p. 147-150]"
-                                ]
-                            },
-                            "items": [
+                                },
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0149",
                                     "type": "Canvas"
@@ -823,22 +769,22 @@
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0151",
                                     "type": "Canvas"
-                                },
-                                {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0152",
-                                    "type": "Canvas"
                                 }
                             ]
                         },
                         {
                             "type": "range",
-                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/4.9",
+                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/4.7",
                             "label": {
                                 "none": [
-                                    "L’Europe, l’été [p. 151-157]"
+                                    "Pour une politique de la recherche [p. 142-146]"
                                 ]
                             },
                             "items": [
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0152",
+                                    "type": "Canvas"
+                                },
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0153",
                                     "type": "Canvas"
@@ -854,7 +800,18 @@
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0156",
                                     "type": "Canvas"
-                                },
+                                }
+                            ]
+                        },
+                        {
+                            "type": "range",
+                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/4.8",
+                            "label": {
+                                "none": [
+                                    "Il n’y a pas de « musique moderne » [p. 147-150]"
+                                ]
+                            },
+                            "items": [
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0157",
                                     "type": "Canvas"
@@ -866,22 +823,22 @@
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0159",
                                     "type": "Canvas"
+                                },
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0160",
+                                    "type": "Canvas"
                                 }
                             ]
                         },
                         {
                             "type": "range",
-                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/4.10",
+                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/4.9",
                             "label": {
                                 "none": [
-                                    "Le dialogue des cultures [p. 158-174]"
+                                    "L’Europe, l’été [p. 151-157]"
                                 ]
                             },
                             "items": [
-                                {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0160",
-                                    "type": "Canvas"
-                                },
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0161",
                                     "type": "Canvas"
@@ -909,7 +866,18 @@
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0167",
                                     "type": "Canvas"
-                                },
+                                }
+                            ]
+                        },
+                        {
+                            "type": "range",
+                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/4.10",
+                            "label": {
+                                "none": [
+                                    "Le dialogue des cultures [p. 158-174]"
+                                ]
+                            },
+                            "items": [
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0168",
                                     "type": "Canvas"
@@ -945,18 +913,7 @@
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0176",
                                     "type": "Canvas"
-                                }
-                            ]
-                        },
-                        {
-                            "type": "range",
-                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/4.11",
-                            "label": {
-                                "none": [
-                                    "L’Europe des régions (une interview) [p. 175-183]"
-                                ]
-                            },
-                            "items": [
+                                },
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0177",
                                     "type": "Canvas"
@@ -988,22 +945,22 @@
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0184",
                                     "type": "Canvas"
-                                },
-                                {
-                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0185",
-                                    "type": "Canvas"
                                 }
                             ]
                         },
                         {
                             "type": "range",
-                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/4.12",
+                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/4.11",
                             "label": {
                                 "none": [
-                                    "Fécondité des études régionales [p. 184-187]"
+                                    "L’Europe des régions (une interview) [p. 175-183]"
                                 ]
                             },
                             "items": [
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0185",
+                                    "type": "Canvas"
+                                },
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0186",
                                     "type": "Canvas"
@@ -1018,6 +975,49 @@
                                 },
                                 {
                                     "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0189",
+                                    "type": "Canvas"
+                                },
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0190",
+                                    "type": "Canvas"
+                                },
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0191",
+                                    "type": "Canvas"
+                                },
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0192",
+                                    "type": "Canvas"
+                                },
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0193",
+                                    "type": "Canvas"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "range",
+                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/4.12",
+                            "label": {
+                                "none": [
+                                    "Fécondité des études régionales [p. 184-187]"
+                                ]
+                            },
+                            "items": [
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0194",
+                                    "type": "Canvas"
+                                },
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0195",
+                                    "type": "Canvas"
+                                },
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0196",
+                                    "type": "Canvas"
+                                },
+                                {
+                                    "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0197",
                                     "type": "Canvas"
                                 }
                             ]
@@ -1034,15 +1034,15 @@
                     },
                     "items": [
                         {
-                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0190",
+                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0198",
                             "type": "Canvas"
                         },
                         {
-                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0191",
+                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0199",
                             "type": "Canvas"
                         },
                         {
-                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0192",
+                            "id": "https://www.unige.ch/rougemont/bcec/bcec197000a/bcec197000a_0200",
                             "type": "Canvas"
                         }
                     ]

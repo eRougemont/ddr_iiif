@@ -38,7 +38,7 @@ function process($pgm_file) {
             echo $error['message'];
             exit();
         }
-        file_put_contents($restart_file, "<?php return $n");
+        file_put_contents($restart_file, "<?php return $n;");
     }
     fclose($handle);
 }

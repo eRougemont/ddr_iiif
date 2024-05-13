@@ -1,6 +1,6 @@
 <?php declare(strict_types = 1);
 
-process(__DIR__ . '/ddr_pathnorm.tsv');
+process(__DIR__ . '/ddr_on.tsv');
 
 // program();
 
